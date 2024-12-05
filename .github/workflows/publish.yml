@@ -28,4 +28,4 @@ jobs:
           publish_dir: ./
           dp_url: https://api.distributed.press
           refresh_token: ${{ secrets.DISTRIBUTED_PRESS_TOKEN }}
-          site_url: reader.distributed.press
+          site_url: reader.p2plabs.xyz
