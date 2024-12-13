@@ -1,16 +1,13 @@
 {
   "version": "1.2.0",
-  "communityName": "Social Reader",
+  "communityName": "Peersky Browser",
   "theme": {
     "bgColor": "#ffffff",
-    "postBgColor": "#ebf3f5",
+    "postBgColor": "#EDFFFE",
     "postDetailsColor": "#4d626a",
-    "postLinkColor": "#0ea5e9"
+    "postLinkColor": "#06b6d4"
   },
   "defaultFollowedActors": [
-    "https://social.distributed.press/v1/@announcements@social.distributed.press/",
-    "ipns://distributed.press/about.ipns.jsonld",
-    "hyper://hypha.coop/about.hyper.jsonld",
-    "https://sutty.nl/about.jsonld"
+    "https://mastodon.social/@peersky"
   ]
 }
